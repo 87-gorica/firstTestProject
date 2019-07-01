@@ -5,7 +5,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Support.UI;
 
-namespace $safeprojectname$
+namespace Project_ExtraSports
 {
     [TestClass]
     public class Registration
