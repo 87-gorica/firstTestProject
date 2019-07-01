@@ -6,7 +6,7 @@ using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Interactions;
 using OpenQA.Selenium.Support.UI;
 
-namespace $safeprojectname$
+namespace Project_ExtraSports
 {
     [TestClass]
     public class CheckupCart
